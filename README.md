@@ -1,1 +1,1 @@
-# COMP3122_Lab1
+# COMP3122_Lab2
